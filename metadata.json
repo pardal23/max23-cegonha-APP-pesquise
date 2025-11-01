@@ -1,0 +1,5 @@
+{
+  "name": "Luz Interior Search",
+  "description": "A spiritual harmony search portal that constructs specific queries for general search and pentesting purposes, sending them to a specialized database for analysis.",
+  "requestFramePermissions": []
+}
